@@ -69,11 +69,11 @@ spi.mosi = "P0_17"
 spi.miso = "P0_17"
 spi.cs = "P0_13"
 motion = "P0_15"
-cpi = 1000
+cpi = 200
 swap_xy = true
 invert_x = false
 invert_y = false
-report_rate_hz = 125
+smart_mode = true 
 
 [storage]
 clear_storage = false
