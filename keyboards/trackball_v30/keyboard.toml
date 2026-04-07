@@ -73,6 +73,7 @@ cpi = 1000
 swap_xy = true
 invert_x = false
 invert_y = false
+report_rate_hz = 125
 
 [storage]
 clear_storage = false
